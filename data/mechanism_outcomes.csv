@@ -1,0 +1,9 @@
+task_set,editable_scope,failure_context,assigned_runs,successes,success_rate
+I,local,retained hypotheses,24,20,20/24
+I,local,recent feedback,24,18,18/24
+I,all pending,retained hypotheses,24,20,20/24
+I,all pending,recent feedback,24,17,17/24
+II,local,retained hypotheses,24,15,15/24
+II,local,recent feedback,24,15,15/24
+II,all pending,retained hypotheses,24,16,16/24
+II,all pending,recent feedback,24,15,15/24

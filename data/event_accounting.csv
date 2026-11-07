@@ -1,0 +1,10 @@
+task_set,method_or_condition,assigned_runs,valid_events,successes_assigned,successes_over_assigned,successes_over_valid_events,notes
+Core system,LLM-Recovery,24,21,18,18/24,18/21,"Primary result uses assigned-run denominator"
+Core system,Public rule,24,21,21,21/24,21/21,"Primary result uses assigned-run denominator"
+Core system,Adapted CoELA,24,21,17,17/24,17/21,"Primary result uses assigned-run denominator"
+Mechanism set I,Each of four conditions,24,21,,,"Same valid-event count for all four conditions"
+Mechanism set II,Each of four conditions,24,21,,,"Same valid-event count for all four conditions"
+Expanded system,LLM-Recovery,16,15,14,14/16,14/15,"Primary result uses assigned-run denominator"
+Expanded system,Public rule,16,16,16,16/16,16/16,"Primary result uses assigned-run denominator"
+Expanded system,Adapted CoELA,16,14,12,12/16,12/14,"Primary result uses assigned-run denominator"
+Expanded context,Recent-feedback variant,16,16,15,15/16,15/16,"Reused system-evaluation variant"

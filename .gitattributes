@@ -1,0 +1,4 @@
+*.csv text eol=lf
+*.md text eol=lf
+*.sha256 text eol=lf
+.gitattributes text eol=lf

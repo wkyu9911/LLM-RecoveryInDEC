@@ -1,0 +1,7 @@
+task_set,method,assigned_runs,dynamic_task_success,llm_invocations,joint_steps,confirmed_tokens,notes
+Core,LLM-Recovery,24,18,49,1846,190274,"Joint steps and tokens are totals over assigned runs"
+Core,Public-evidence rule,24,21,0,1784,0,"Joint steps and tokens are totals over assigned runs"
+Core,Adapted CoELA,24,17,1765,1384,6769717,"Joint steps and tokens are totals over assigned runs"
+Expanded,LLM-Recovery,16,14,39,1055,149345,"Joint steps and tokens are totals over assigned runs"
+Expanded,Public-evidence rule,16,16,0,1173,0,"Joint steps and tokens are totals over assigned runs"
+Expanded,Adapted CoELA,16,12,1024,753,3796028,"Joint steps and tokens are totals over assigned runs"

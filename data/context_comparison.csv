@@ -1,0 +1,5 @@
+task_set,context,assigned_runs,successes,llm_invocations,run_relationship
+Core,retained hypotheses,24,18,49,"retained system reference reused"
+Core,recent feedback,24,19,49,"focused comparison execution"
+Expanded,retained hypotheses,16,14,39,"system evaluation run reused"
+Expanded,recent feedback,16,15,43,"system evaluation run reused"
