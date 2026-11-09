@@ -1,5 +1,0 @@
-comparison,effect_percentage_points,ci95_lower,ci95_upper,statistical_unit,seed_aggregation,bootstrap_replicates,bootstrap_seed,interpretation
-Core: LLM-Recovery minus CoELA,4.17,-20.83,25.00,base configuration,"mean paired seed difference",4000,48021,"Exploratory interval across tested configurations"
-Expanded: LLM-Recovery minus CoELA,12.50,-18.75,50.00,base configuration,"mean paired seed difference",4000,48021,"Exploratory interval across tested configurations"
-Mechanism I: retained minus recent,10.42,0.00,25.00,base configuration,"mean paired seed difference",4000,48021,"Exploratory interval across tested configurations"
-Mechanism II: retained minus recent,2.08,-4.17,8.33,base configuration,"mean paired seed difference",4000,48021,"Exploratory interval across tested configurations"

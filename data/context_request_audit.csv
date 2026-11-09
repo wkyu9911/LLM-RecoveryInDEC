@@ -1,4 +1,0 @@
-comparison,edit_scope,context_bearing_requests,current_failure_information,selected_scope_changed,interpretation
-Mechanism set I,local,10,"All contained current grasp-related feedback",0,"Retained context increased information exposure without changing selected scope"
-Mechanism set I,all-pending,7,"All contained current grasp-related feedback",0,"Retained context increased information exposure without changing selected scope"
-Expanded context,not separated,5,"All contained current failure information for the same task",not evaluated,"Counts characterize information exposure and are not an additional performance metric"

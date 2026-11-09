@@ -1,7 +1,0 @@
-comparison,base_configurations,seeds,seed_ids,runs_per_condition,intervention_timing,run_relationship,notes
-Core system,12,2,"2;3",24,first eligible action condition,independent,"System comparison on core configurations"
-Expanded system,8,2,"2;3",16,first eligible action condition,independent,"Distinct expanded configurations"
-Mechanism set I,12,2,"0;1",24,first scheduled intervention,independent,"2x2 edit-scope by context design"
-Mechanism set II,12,2,"2;3",24,first eligible action condition,independent,"New executions on core task inputs with frozen controller"
-Focused core context,12,2,"2;3",24,first eligible action condition,retained reference reused,"Adds recent-feedback runs and reuses the retained-context reference"
-Expanded context,8,2,"2;3",16,first eligible action condition,system runs reused,"Reuses retained-context and recent-feedback system-evaluation variants"
